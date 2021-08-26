@@ -1,12 +1,12 @@
 {
-    "name": "hpryzen5/cms",
+    "name": "jipajipa/cms",
     "description": "CMS",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "jipajipa",
-            "email": "jipa@jip.jip"
+            "name": "jipjip",
+            "email": "jip@jip.com"
         }
     ],
     "minimum-stability": "dev",
